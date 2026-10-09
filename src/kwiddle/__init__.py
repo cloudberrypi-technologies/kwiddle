@@ -4,3 +4,5 @@ from subprocess import (
     check_call,
     check_output,
 )
+if __name__ == "__main__":
+    maincode.run()
